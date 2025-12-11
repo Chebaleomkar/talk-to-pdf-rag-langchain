@@ -1,0 +1,20 @@
+.env
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+*.egg-info/
+build/
+dist/
+
+# RAG/ML specific (common)
+data/
+models/
+results/
+output/
+*.log
+.ipynb_checkpoints/
